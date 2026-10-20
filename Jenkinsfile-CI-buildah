@@ -5,7 +5,7 @@ pipeline {
     // === 사용자 수정 영역 ===
     GIT_URL                = 'https://github.com/sonminjae-git/myfirst-api-server.git'
     GIT_BRANCH             = 'main'            // 또는 main
-    GIT_ID                 = 'skala-github-id'   // GitHub PAT credential ID
+    GIT_ID                 = 'sk0055-github-id'   // GitHub PAT credential ID
     IMAGE_NAME             = 'sk0055-webserver'
     // =======================
     IMAGE_TAG              = '1.0'
